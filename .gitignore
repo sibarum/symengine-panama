@@ -1,0 +1,5 @@
+target/
+native/symengine/
+native/dist/
+.idea/
+*.iml
