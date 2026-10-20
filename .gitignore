@@ -3,3 +3,4 @@ native/symengine/
 native/dist/
 .idea/
 *.iml
+.claude/
